@@ -94,6 +94,7 @@ int main() {
 	}
 	cout << "Ending Score was: " << userScore << endl;
 	cout << "Thanks for playing" << endl;
+	cout << "end program" << endl;
 
 	system("pause");
 	return 0;
